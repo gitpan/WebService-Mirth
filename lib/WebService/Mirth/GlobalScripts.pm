@@ -1,6 +1,6 @@
 package WebService::Mirth::GlobalScripts;
 {
-  $WebService::Mirth::GlobalScripts::VERSION = '0.131000';
+  $WebService::Mirth::GlobalScripts::VERSION = '0.131020';
 }
 
 # ABSTRACT: Represent Mirth "global scripts"
@@ -38,7 +38,7 @@ WebService::Mirth::GlobalScripts - Represent Mirth "global scripts"
 
 =head1 VERSION
 
-version 0.131000
+version 0.131020
 
 =head1 AUTHOR
 

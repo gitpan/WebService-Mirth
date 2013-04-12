@@ -2,7 +2,7 @@ NAME
     WebService::Mirth - Interact with a Mirth Connect server via REST
 
 VERSION
-    version 0.131000
+    version 0.131020
 
 SYNOPSIS
         my $mirth = WebService::Mirth->new(

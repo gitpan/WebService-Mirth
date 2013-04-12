@@ -1,6 +1,6 @@
 package WebService::Mirth::Channel;
 {
-  $WebService::Mirth::Channel::VERSION = '0.131000';
+  $WebService::Mirth::Channel::VERSION = '0.131020';
 }
 
 # ABSTRACT: Represent a Mirth channel
@@ -61,7 +61,7 @@ WebService::Mirth::Channel - Represent a Mirth channel
 
 =head1 VERSION
 
-version 0.131000
+version 0.131020
 
 =head1 AUTHOR
 

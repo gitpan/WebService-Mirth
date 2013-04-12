@@ -1,5 +1,9 @@
 Revision history for WebService-Mirth
 
+0.131020  2013-04-12 13:51:55 America/Chicago
+
+  * Update "resources" metadata for distribution to GitHub URIs
+
 0.131000  2013-04-09 22:44:08 America/Chicago
 
   * Initial release

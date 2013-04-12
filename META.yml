@@ -34,4 +34,7 @@ requires:
   MooseX::Types::Path::Class::MoreCoercions: 0.002
   aliased: 0
   namespace::autoclean: 0
-version: 0.131000
+resources:
+  bugtracker: https://github.com/tommystanton/webservice-mirth/issues
+  repository: git://github.com/tommystanton/webservice-mirth.git
+version: 0.131020

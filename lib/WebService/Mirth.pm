@@ -1,6 +1,6 @@
 package WebService::Mirth;
 {
-  $WebService::Mirth::VERSION = '0.131000';
+  $WebService::Mirth::VERSION = '0.131020';
 }
 
 # ABSTRACT: Interact with a Mirth Connect server via REST
@@ -434,7 +434,7 @@ WebService::Mirth - Interact with a Mirth Connect server via REST
 
 =head1 VERSION
 
-version 0.131000
+version 0.131020
 
 =head1 SYNOPSIS
 

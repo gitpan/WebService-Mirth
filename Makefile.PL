@@ -22,7 +22,6 @@ my %WriteMakefileArgs = (
     "Test::Fatal" => 0,
     "Test::File" => 0,
     "Test::More" => 0,
-    "Test::Warn" => 0,
     "Test::XML" => 0
   },
   "CONFIGURE_REQUIRES" => {
@@ -43,7 +42,7 @@ my %WriteMakefileArgs = (
     "aliased" => 0,
     "namespace::autoclean" => 0
   },
-  "VERSION" => "0.131020",
+  "VERSION" => "0.131050",
   "test" => {
     "TESTS" => "t/*.t"
   }

@@ -1,6 +1,6 @@
 package WebService::Mirth;
 {
-  $WebService::Mirth::VERSION = '0.131020';
+  $WebService::Mirth::VERSION = '0.131050';
 }
 
 # ABSTRACT: Interact with a Mirth Connect server via REST
@@ -425,7 +425,6 @@ __PACKAGE__->meta->make_immutable;
 1;
 
 __END__
-
 =pod
 
 =head1 NAME
@@ -434,7 +433,7 @@ WebService::Mirth - Interact with a Mirth Connect server via REST
 
 =head1 VERSION
 
-version 0.131020
+version 0.131050
 
 =head1 SYNOPSIS
 
@@ -723,3 +722,4 @@ This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
 
 =cut
+

@@ -1,6 +1,6 @@
 package WebService::Mirth::CodeTemplates;
 {
-  $WebService::Mirth::CodeTemplates::VERSION = '0.131020';
+  $WebService::Mirth::CodeTemplates::VERSION = '0.131050';
 }
 
 # ABSTRACT: Represent Mirth "code templates"
@@ -29,7 +29,6 @@ __PACKAGE__->meta->make_immutable;
 1;
 
 __END__
-
 =pod
 
 =head1 NAME
@@ -38,7 +37,7 @@ WebService::Mirth::CodeTemplates - Represent Mirth "code templates"
 
 =head1 VERSION
 
-version 0.131020
+version 0.131050
 
 =head1 AUTHOR
 
@@ -52,3 +51,4 @@ This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
 
 =cut
+

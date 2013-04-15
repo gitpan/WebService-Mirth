@@ -1,6 +1,6 @@
 package WebService::Mirth::GlobalScripts;
 {
-  $WebService::Mirth::GlobalScripts::VERSION = '0.131020';
+  $WebService::Mirth::GlobalScripts::VERSION = '0.131050';
 }
 
 # ABSTRACT: Represent Mirth "global scripts"
@@ -29,7 +29,6 @@ __PACKAGE__->meta->make_immutable;
 1;
 
 __END__
-
 =pod
 
 =head1 NAME
@@ -38,7 +37,7 @@ WebService::Mirth::GlobalScripts - Represent Mirth "global scripts"
 
 =head1 VERSION
 
-version 0.131020
+version 0.131050
 
 =head1 AUTHOR
 
@@ -52,3 +51,4 @@ This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
 
 =cut
+

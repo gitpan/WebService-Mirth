@@ -1,5 +1,10 @@
 Revision history for WebService-Mirth
 
+0.131050  2013-04-14 19:19:56 America/Chicago
+
+  * Remove minor warning test that was failing (resolves GitHub issue
+    #1)
+
 0.131020  2013-04-12 13:51:55 America/Chicago
 
   * Update "resources" metadata for distribution to GitHub URIs

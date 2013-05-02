@@ -1,6 +1,6 @@
 package WebService::Mirth::CodeTemplates;
 {
-  $WebService::Mirth::CodeTemplates::VERSION = '0.131050';
+  $WebService::Mirth::CodeTemplates::VERSION = '0.131220';
 }
 
 # ABSTRACT: Represent Mirth "code templates"
@@ -37,7 +37,7 @@ WebService::Mirth::CodeTemplates - Represent Mirth "code templates"
 
 =head1 VERSION
 
-version 0.131050
+version 0.131220
 
 =head1 AUTHOR
 

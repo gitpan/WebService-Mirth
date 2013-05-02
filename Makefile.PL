@@ -32,7 +32,7 @@ my %WriteMakefileArgs = (
   "LICENSE" => "perl",
   "NAME" => "WebService::Mirth",
   "PREREQ_PM" => {
-    "IO::Socket::SSL" => 0,
+    "IO::Socket::SSL" => "1.75",
     "Log::Minimal" => "0.13",
     "Mojolicious" => "1.97",
     "Moose" => "1.00",
@@ -42,7 +42,7 @@ my %WriteMakefileArgs = (
     "aliased" => 0,
     "namespace::autoclean" => 0
   },
-  "VERSION" => "0.131050",
+  "VERSION" => "0.131220",
   "test" => {
     "TESTS" => "t/*.t"
   }

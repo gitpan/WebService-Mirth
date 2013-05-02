@@ -24,7 +24,7 @@ meta-spec:
   version: 1.4
 name: WebService-Mirth
 requires:
-  IO::Socket::SSL: 0
+  IO::Socket::SSL: 1.75
   Log::Minimal: 0.13
   Mojolicious: 1.97
   Moose: 1.00
@@ -36,4 +36,4 @@ requires:
 resources:
   bugtracker: https://github.com/tommystanton/webservice-mirth/issues
   repository: git://github.com/tommystanton/webservice-mirth.git
-version: 0.131050
+version: 0.131220
